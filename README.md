@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ET-Hijack
+- 👋 Hi, This is ET Comp
 - 👀 I’m interested in Computer Science, Software Development and Video Production
 - 🌱 I’m currently learning CEH and Web Development
 - 💞️ I’m looking to collaborate on Software projects
