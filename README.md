@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning CEH and Web Development
 - 💞️ I’m looking to collaborate on Software projects
 - 📫 How to reach me
+- On Youtube - https://www.youtube.com/c/ETComp
 - On Telegram - https://t.me/etcomp2291
 
 <!---
