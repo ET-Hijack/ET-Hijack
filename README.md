@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - On Youtube - https://www.youtube.com/c/ETComp
 - On Telegram - https://t.me/etcomp2291
+- My Website - https://etcomp2291.wordpress.com
 
 <!---
 ET-Hijack/ET-Hijack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
